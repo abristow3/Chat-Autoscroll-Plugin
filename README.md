@@ -8,6 +8,8 @@ Automatically scrolls the chatbox back to the newest message after it has been l
 - Restarts the timer whenever you scroll, so it won't pull you down while you're reading
 - New incoming messages don't reset the timer
 
+https://github.com/user-attachments/assets/9575fa80-d152-4a93-b9c2-d868991c0c51
+
 ## Config
 | Option | Description | Default |
 |---|---|---|
