@@ -1,7 +1,7 @@
 # Chat Auto Scroll
 Automatically scrolls the chatbox back to the newest message after it has been left scrolled up for a set amount of time.
 
-[![Active Installs](http://img.shields.io/endpoint?url=https://api.runelite.net/pluginhub/shields/installs/plugin/chat-auto-scroll)](https://runelite.net/plugin-hub/show/chat-autoscroll)
+[![Active Installs](http://img.shields.io/endpoint?url=https://api.runelite.net/pluginhub/shields/installs/plugin/chat-autoscroll)](https://runelite.net/plugin-hub/show/chat-autoscroll)
 
 ## Features
 - Returns the chatbox to the latest message after a configurable delay
